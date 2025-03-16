@@ -3,6 +3,13 @@ package main
 import "fmt"
 
 
+// Can't write this:
+// Variable_name := "aalkjsdnz"
+// You can not used this variable ******
+// Can do this:
+var Variable_name = "aalkjsdnz"
+
+
 func main() {
 	var اسم string
 	var age int
@@ -16,7 +23,7 @@ func main() {
 	fmt.Println("سلام", اسم)
 	fmt.Println("سن شما" , age , "سال هست.")
 	fmt.Println("و جنسیت شما", gender, " می باشد")
-	
+
 	myLove := "bahar"
 	fmt.Println(myLove)
 }
