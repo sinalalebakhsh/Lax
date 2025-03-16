@@ -8,12 +8,12 @@ func main() {
 	var age int
 	var gender string
 	// This is Hello World Application
-	اسم = "Sina"
+	اسم = "سینا"
 	age = 32
-	gender = "Man"
+	gender = "مرد"
 
-	fmt.Println("Welcome", اسم)
-	fmt.Println("with Age:" , age)
-	fmt.Println("and gender:", gender)
+	fmt.Println("سلام", اسم)
+	fmt.Println("سن شما" , age , "سال هست.")
+	fmt.Println("و جنسیت شما", gender, " می باشد")
 }
 
