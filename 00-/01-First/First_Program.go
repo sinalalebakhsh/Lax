@@ -12,8 +12,12 @@ func main() {
 	age = 32
 	gender = "مرد"
 
+	
 	fmt.Println("سلام", اسم)
 	fmt.Println("سن شما" , age , "سال هست.")
 	fmt.Println("و جنسیت شما", gender, " می باشد")
+	
+	myLove := "bahar"
+	fmt.Println(myLove)
 }
 
