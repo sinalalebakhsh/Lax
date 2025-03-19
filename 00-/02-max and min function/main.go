@@ -10,4 +10,8 @@ func main()  {
 	fmt.Println(max(adad_avali, adda_dovomi))
 	fmt.Println(max(adad_avali, adda_dovomi, 2025))
 
+	fmt.Println(min(adad_avali, adda_dovomi, 2025))
+	fmt.Println(min(adad_avali, adda_dovomi, 2025))
+	
+
 }
