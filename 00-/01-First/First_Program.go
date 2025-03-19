@@ -24,7 +24,7 @@ func main() {
 	fmt.Println("سن شما" , age , "سال هست.")
 	fmt.Println("و جنسیت شما", gender, " می باشد")
 
-	myLove := "bahar"
+	myLove := "bahareh"
 	fmt.Println(myLove)
 }
 
