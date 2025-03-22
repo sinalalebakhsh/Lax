@@ -10,6 +10,5 @@ func main()  {
 
 	fmt.Println(adad_ashari)
 	fmt.Println(adad_saahih)
-
 	
 }
