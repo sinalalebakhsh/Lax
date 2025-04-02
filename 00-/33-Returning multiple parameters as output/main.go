@@ -12,6 +12,8 @@ func AreaAndPerimeter(r float64) (float64, float64) {
 
 func main() {
 
-	fmt.Println(AreaAndPerimeter(1))
+	area, perimeter := AreaAndPerimeter(1)
+	fmt.Println("Area of circle is:", area)
+	fmt.Println("Perimeter of circle is:", perimeter)
 
 }
