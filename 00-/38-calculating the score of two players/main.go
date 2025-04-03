@@ -10,17 +10,17 @@ func main() {
 		sina++
 		return sina
 	}
-	mina_score := func() int {
+	lina_score := func() int {
 		lina++
 		return lina
 	}
 
 	fmt.Println("sina score =",sina_score())
-	fmt.Println(mina_score())
-	fmt.Println(mina_score())
-	fmt.Println(mina_score())
+	fmt.Println("lina score =",lina_score())
+	fmt.Println("lina score =",lina_score())
+	fmt.Println("lina score =",lina_score())
 	fmt.Println("sina score =",sina_score())
-	fmt.Println(mina_score())
+	fmt.Println("lina score =",lina_score())
 	fmt.Println("sina score =",sina_score())
 	fmt.Println("sina score =",sina_score())
 	fmt.Println("sina score =",sina_score())
