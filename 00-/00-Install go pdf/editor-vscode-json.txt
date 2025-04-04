@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Bearded Theme Vivid Black",
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+      "editor.selectionBackground": "#003aff"
+    },
+    "editor.tokenColorCustomizations": {
+      "comments": "#ff00aa"
+    },
+    "workbench.iconTheme": "bearded-icons",
+    "editor.mouseWheelZoom": true,
+    
+  }
