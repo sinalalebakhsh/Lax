@@ -1,0 +1,15 @@
+You can use a package in your package that directly or indirectly references an existing package.
+For example, package A imports package B, and package B imports package A.
+Package A imports package B, package B imports package C, and package C imports package A.
+This causes a compile-time error. 
+This is called an Import Cycle, and it is a common error in most programming languages.
+A package should not reference itself.
+
+شما نمی توانید از بسته ای در بسته خود استفاده کنید که به طور مستقیم یا غیرمستقیم به یک بسته موجود ارجاع دهد. 
+به عنوان مثال، بسته A بسته B را وارد می کند 
+و بسته B بسته A را وارد می کند. یا بسته A بسته B را وارد می کند،
+ بسته B بسته C را وارد می کند و بسته C بسته A 
+ را وارد می کند.
+  این باعث خطای زمان کامپایل می شود. 
+  این یک چرخه واردات نامیده می شود 
+  و یک خطای رایج در اکثر زبان های برنامه نویسی است. هیچ بسته ای نباید به خود ارجاع دهد.
