@@ -1,0 +1,17 @@
+GoModule is a tool for managing project dependencies. 
+Before GoModule was introduced, 
+there was no standard way to manage dependencies. 
+Suppose you were using an open source package and the code was publicly available. 
+After a while, an update was released for that package that included a lot of changes. 
+You could determine that your project would not work with a specific version of GoModule. 
+But using GoModule, you could use Unpacking and Your code package update was successful.
+
+
+
+گــوماجــول ابزاریســت بــرای مدیــرت وابســتگی های پــروژه.تــا قبــل از معرفــی گــو ماجــول راه اســتانداردی
+بــرایمدیریــت وابســتگیــها وجــود نداشــت.فــرض کنیــد شــما از پکیــج اوپــن سورســی اســتفاده میکنیــد.
+یشــودو عمــًا کــد
+وبعــد از مدتــی آپدیتــی بــرای آن پکیــج منتشــر می‌شــود کــه تغییــرات زیــادی را شــامل م .
+یتــوانتعیــن کــرد کــه پــروژه مــا از ورژن مشــخصی از
+شــمااز کار می‌افتــد.امــا بــا اســتفاده از گــو ماجــول م.
+آنپکیــج اســتفاده کنــد و در صــورت آپدیــت آن پکیــج کــد شــما بــدون مشــکل اجــرا شــود.
