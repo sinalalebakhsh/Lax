@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 
 	student_names := [20]string{}
 
@@ -14,4 +14,16 @@ func main()  {
 	// default value is 0
 	fmt.Println(student_scores)
 
+	// define with value in same time
+	student_lastnames := [20]string{
+		"lalebakhsh",
+		"loolebakhsh",
+		"jalebakhsh",
+		"joolebakhsh",
+		"balebakhsh",
+		"boolebakhsh",
+	}
+
+	// define six first lastnames 
+	fmt.Println(student_lastnames)
 }
