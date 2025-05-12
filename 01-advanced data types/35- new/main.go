@@ -12,6 +12,8 @@ func main()  {
 	// ---------------------------
 
 	fmt.Println(*a_number)
+
+	
 	*a_number = 354
 	fmt.Println(*a_number)
 
