@@ -19,5 +19,8 @@ func main() {
 	fmt.Println("before hit:", player1.hp)
 	player1.hit()
 	fmt.Println("after hit:", player1.hp)
+	player1.hit()
+	fmt.Println("after hit:", player1.hp)
+	player1.hit()
 
 }
