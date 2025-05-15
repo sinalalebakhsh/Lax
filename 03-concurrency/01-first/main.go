@@ -8,10 +8,12 @@ import (
 
 
 func main()  {
-	print_letters()
+	
+	go print_letters()
 	fmt.Println()
-	print_numbers()
+	go print_numbers()
 	fmt.Println()
+	// time.Sleep(time.Millisecond * 5000)
 }
 
 func print_letters()  {
