@@ -1,0 +1,11 @@
+scraping: https://www.scrapingcourse.com/ecommerce/page/2/
+scraping: https://www.scrapingcourse.com/ecommerce/page/3/
+scraping: https://www.scrapingcourse.com/ecommerce/page/4/
+scraping: https://www.scrapingcourse.com/ecommerce/page/5/
+scraping: https://www.scrapingcourse.com/ecommerce/page/6/
+scraping: https://www.scrapingcourse.com/ecommerce/page/7/
+scraping: https://www.scrapingcourse.com/ecommerce/page/8/
+scraping: https://www.scrapingcourse.com/ecommerce/page/9/
+scraping: https://www.scrapingcourse.com/ecommerce/page/10/
+scraping: https://www.scrapingcourse.com/ecommerce/page/11/
+scraping: https://www.scrapingcourse.com/ecommerce/page/12/
